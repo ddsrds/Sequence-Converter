@@ -4,7 +4,7 @@ This script aims to reformat genetic sequence files (such as .fasta or .txt file
 
 - Preserves the original header (line starting with '>').
 
-- Converts all subsequent lines of the sequence into a protein sequence, facilitating sequence processing by other programs.
+- Converts all subsequent lines of the sequence into a protein or a nucleotide sequence, facilitating sequence processing by other programs.
 
 # 📁 Steps to use the script
 
