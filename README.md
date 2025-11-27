@@ -27,9 +27,8 @@ This script aims to reformat genetic sequence files (such as .fasta or .txt file
 
 In the second code block, you will find two important lines at the beginning:
 
-input = '/content/drive/MyDrive/CreatedFolderName/sequence.txt'
-
-output = '/content/drive/MyDrive/CreatedFolderName/output.txt'
+    input = '/content/drive/MyDrive/CreatedFolderName/sequence.txt'
+    output = '/content/drive/MyDrive/CreatedFolderName/output.txt'
 
 - Change the path in the input variable to reflect the exact location where you saved the file in your Drive (sequence.txt).
 
