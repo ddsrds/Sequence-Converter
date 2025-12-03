@@ -17,13 +17,13 @@ This script aims to reformat genetic sequence files (such as .fasta or .txt file
 
 - Important: Rename the sequence file to "sequence.txt".
 
-#2. Open the script in Google Colab
+2. Open the script in Google Colab
 
 - Right-click on the script file (e.g., sequence_formatter.ipynb) and select "Open with > Google Colab".
 
 - Colab will open in a new browser tab with the script content loaded.
 
-#3. Edit File Paths
+3. Edit File Paths
 
 In the second code block, you will find two important lines at the beginning:
 
@@ -34,7 +34,7 @@ In the second code block, you will find two important lines at the beginning:
 
 - Change the path in the output variable to the location where you want to save the output file (output.txt).
 
-#4. Allowing Access to Google Drive
+4. Allowing Access to Google Drive
 
 For the script to access files saved in your Google Drive, you need to connect Google Colab to your Drive account. Follow the steps below:
 
@@ -44,7 +44,7 @@ For the script to access files saved in your Google Drive, you need to connect G
 
 - After logging in, a screen will appear requesting authorization to access the files in your Google Drive. - Click the option to authorize access and your Google Drive will be mounted in the Colab environment.
 
-#5. Verify the output file.
+5. Verify the output file.
 
 - Access the folder where the files are located in your Google Drive.
 
@@ -52,7 +52,7 @@ For the script to access files saved in your Google Drive, you need to connect G
 
 - If it doesn't appear immediately, refresh the Drive page a few times, as Google Drive may take a few seconds to display files created by Colab scripts.
 
-#6. Possible Errors
+6. Possible Errors
 
 - The script does not modify the genetic data, it only converts the sequence format. However, to avoid errors, make sure:
 
